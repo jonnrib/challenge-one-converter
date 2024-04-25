@@ -21,7 +21,7 @@ To run this project, you will need:
 4. Open the project in IntelliJ IDEA or another IDE of your choice that supports Maven.
 5. Run `mvn clean install` to install dependencies.
 6. Obtain a free API key from [Exchange Rate API](https://www.exchangerate-api.com/) and configure it in your project.
-7. Run the project using the command `mvn exec:java -Dexec.mainClass="org.example.CurrencyConverter"` or through your IDE.
+7. Run the project using the command `mvn exec:java -Dexec.mainClass=CurrencyConverter` or through your IDE.
 
 ## Exchange Rate API Quick Start
 
